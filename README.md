@@ -10,4 +10,4 @@ The data is in an excel sheet and they would like to see a dashboard outlying se
 
 
 ## Final Result:
-[Link](https://public.tableau.com/app/profile/sayona.purohit/viz/BlueBankLoanDashboard_16558411109600/BlueBankLoan) to tableau dashboard.
+[Link](https://public.tableau.com/app/profile/sayona.purohit/viz/Blogmearticleanalysis/BlogMeNewsDashboard) to tableau dashboard.
