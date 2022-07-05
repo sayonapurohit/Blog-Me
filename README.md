@@ -6,6 +6,7 @@ The data is in an excel sheet and they would like to see a dashboard outlying se
 
 ### Data File: 
 [CSV File](https://finch-groundhog-9245.squarespace.com/s/articles.xlsx) (articles.xlsx) – 4.7 MB file
+<br>
 [CSV File](https://finch-groundhog-9245.squarespace.com/s/BlogMe_sources.xlsx) (BlogMe_sources.xlsx) – 9.6 KB file
 
 
